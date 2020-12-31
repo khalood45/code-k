@@ -1,6 +1,6 @@
 Start program 
 For all record remain 
- Int salary ,fees 
+ Int salary 
  If (salary <=500 OR )then 
  print “diploma employee “
  else salary >=600 OR)then 
